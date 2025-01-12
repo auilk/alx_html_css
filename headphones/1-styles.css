@@ -228,6 +228,10 @@ header {
     text-align: center;
 }
 
+.what-we-do h1 {
+    font-weight: 600;
+}
+
 .what-we-do p {
     max-width: 800px;
 }
@@ -238,6 +242,10 @@ header {
     align-items: center;
     gap: 50px;
     flex-wrap: wrap;
+}
+
+.container h3 {
+    font-weight: 600;
 }
 
 .container .item {
